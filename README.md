@@ -2,6 +2,12 @@
 
 A realistic 3D basketball shooting simulator built with WebGL and Three.js, featuring advanced physics simulation, dynamic scoring system, and immersive audio-visual effects. Experience the thrill of basketball with accurate trajectory physics, collision detection, and real-time gameplay feedback.
 
+
+
+https://github.com/user-attachments/assets/78713350-8e6d-4a35-b4e7-eb095e1335c3
+
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
